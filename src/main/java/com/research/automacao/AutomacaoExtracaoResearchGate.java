@@ -10,9 +10,6 @@ import com.research.util.IdentificadorSO;
 import com.research.util.Normalizador;
 import com.research.model.ProfessorResearch;
 import com.research.validacao.ValidacaoExtracaoResearchGate;
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -105,10 +102,9 @@ public class AutomacaoExtracaoResearchGate {
 
         List<WebElement> tags = elementos.get(64).findElements(By.tagName("div"));
 
-        for (WebElement tag : tags) {
-
+        tags.stream().forEach((tag) -> {
             skills.add(tag.getText());
-        }
+        });
 
         return skills;
     }
@@ -149,10 +145,7 @@ public class AutomacaoExtracaoResearchGate {
                 contador++;
             } catch (org.openqa.selenium.StaleElementReferenceException a) {
                 elementos = driver.findElements(By.tagName("div"));
-                continue;
-            } catch (java.lang.IndexOutOfBoundsException e) {
-                break;
-            } catch (org.openqa.selenium.WebDriverException e) {
+            } catch (java.lang.IndexOutOfBoundsException | org.openqa.selenium.WebDriverException e) {
                 break;
             }
         }
@@ -196,7 +189,7 @@ public class AutomacaoExtracaoResearchGate {
          * Credenciais para acessar o sistema
          */
         String email = "email_acesso";
-        String password = "password_acesso";
+        String password = "email_acesso";
 
         /**
          * Iniciando o WebDriver, utilizando uma chave e o arquivo
@@ -227,10 +220,8 @@ public class AutomacaoExtracaoResearchGate {
          */
         clickButton(driver);
 
-        FileReader in = null;
+        Set<String> nomeSemRepeticao = ValidacaoExtracaoResearchGate.retirarRepeticao("Restante.txt");
 
-        Set<String> nomeSemRepeticao = ValidacaoExtracaoResearchGate.retirarRepeticao("NomeLista.txt");
-        BufferedReader br = new BufferedReader(in);
         for (String linha : nomeSemRepeticao) {
 
             /**
@@ -323,6 +314,7 @@ public class AutomacaoExtracaoResearchGate {
                      * Caso não encontre a pessoa, adiciona na lista das pessoas
                      * sem o campo nick_name preenchido.
                      */
+                    professor.setNickName("Nao Encontrado");
                     professores.add(professor);
 
                     System.out.println(professor.toString());
