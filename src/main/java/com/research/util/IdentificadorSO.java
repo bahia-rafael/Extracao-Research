@@ -1,7 +1,5 @@
 package com.research.util;
 
-import static com.research.model.GetProperties.prop;
-
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -17,11 +15,11 @@ public class IdentificadorSO {
     public static String identificarSO() {
         String retorno;
         if (System.getProperty("os.name").contains("Windows")) {
-            retorno = prop.getProperty("CAMINHO_DRIVER_WIN");
+            retorno = "chromedriver_win.exe";
         } else {
-           retorno = prop.getProperty("CAMINHO_DRIVER_LINUX");
+            retorno = "chromedriver";
         }
-        
+
         return retorno;
     }
 

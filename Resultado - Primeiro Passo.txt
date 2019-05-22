@@ -1,0 +1,293 @@
+Igual;Maria Moreira;LIGIA MARIA MOREIRA DUMONT
+Diferente;Yenni Leandra;MARIA LEANDRA BIZELLO
+Diferente;Anders Goncalves da Silva;RUBENS RIBEIRO GONCALVES DA SILVA
+Diferente;Yenni Leandra;MARIA LEANDRA BIZELLO
+Diferente;Anders Goncalves da Silva;RUBENS RIBEIRO GONCALVES DA SILVA
+Igual;Maria Moreira;LIGIA MARIA MOREIRA DUMONT
+Igual;Priscila Barros;PRISCILA BARROS DAVID
+Diferente;Gabriel Araujo da Silva;ALZIRA KARLA ARAUJO DA SILVA
+Diferente;Matheus Vieira da Cunha;MIRIAM FIGUEIREDO VIEIRA DA CUNHA
+Igual;Vania Ribeiro;LENA VANIA RIBEIRO PINHEIRO
+Igual;Claudio Paixao Anastacio de Paula;CLAUDIO PAIXAO ANASTACIO DE PAULA
+Diferente;Luiz Andre Neves de Brito;DULCE AMELIA DE BRITO NEVES
+Igual;Angel Freddy Godoy Viera;ANGEL FREDDY GODOY VIERA
+Igual;Edivanio Duarte de Souza;EDIVANIO DUARTE DE SOUZA
+Igual;Edmir Perrotti;EDMIR PERROTTI
+Diferente;Atanne Celia;ALEGRIA CELIA BENCHIMOL
+Diferente;Isabela Maria Carneiro de Albuquerque;MARIA ELIZABETH BALTAR CARNEIRO DE ALBUQUERQUE
+Diferente;Gruel Rejane;LIZ REJANE ISSBERNER
+Diferente;Regina Celia Baptista Belluzzo;REGINA CELIA SILVA BAPTISTA BELLUZZO
+Igual;Beatriz Valadares Cendon;BEATRIZ VALADARES CENDON
+Diferente;Orng Eliane;ELIANE BEZERRA PAIVA
+Diferente;Ana Carla Lima de Franca;IZABEL FRANCA DE LIMA
+Diferente;Andre Alves da Silva;RUBENS ALVES DA SILVA
+Igual;Joao de Melo Maricato;JOAO DE MELO MARICATO
+Igual;Anna Elizabeth Galvao Coutinho Correia;ANNA ELIZABETH GALVAO COUTINHO CORREIA
+Diferente;Gregorio Varvakis;GREGORIO JEAN VARVAKIS RADOS
+Diferente;Rita de Cassia Loiola Cordeiro;CASSIA CORDEIRO FURTADO
+Diferente;luiz tadeu gabriel filho;LUIZ TADEU FEITOSA
+Igual;Rodrigo De Sales;RODRIGO DE SALES
+Diferente;Vincentius Ivan;IVAN CAPELLER
+Diferente;Ademilso Alves da Cunha;ANGELICA ALVES DA CUNHA MARQUES
+Diferente;Andre Luis Pereira de Albuquerque;ANDRE FELIPE DE ALBUQUERQUE FELL
+Igual;Ursula Blattmann;URSULA BLATTMANN
+Igual;Marie Santini;ROSE MARIE SANTINI DE OLIVEIRA
+Diferente;maria do rosario/Dias maria do rosario de fatima martins dias;MARIA DO ROSARIO DE FATIMA PORTELA CYSNE
+Diferente;Aline Ferreira de Araujo Jeronimo;DOUGLAS DYLLON JERONIMO DE MACEDO
+Igual;Mario Cocco;GIUSEPPE MARIO COCCO
+Igual;Fernanda Maria Melo Alves;FERNANDA MARIA MELO ALVES
+Igual;Maria Das Gracas;MARIA DAS GRACAS TARGINO MOREIRA GUEDES
+Igual;Kelley Cristine Goncalves Dias Gasque;KELLEY CRISTINE GONCALVES DIAS GASQUE
+Igual;Marilda Lopes Ginez de Lara;MARILDA LOPES GINEZ DE LARA
+Diferente;Helen De Castro Silva Casarin;HELEN DE CASTRO SILVA
+Diferente;Maria de Fatima Oliveira Saraiva;MARIA DE FATIMA OLIVEIRA COSTA
+Igual;Lucia Maria Velloso de Oliveira;LUCIA MARIA VELLOSO DE OLIVEIRA
+Diferente;Camila de Oliveira Nascimento;ADALSON DE OLIVEIRA NASCIMENTO
+Diferente;Juliana Soares dos Reis;ALCENIR SOARES DOS REIS
+Igual;Wagner Junqueira de Araujo;WAGNER JUNQUEIRA DE ARAUJO
+Diferente;Simone Pereira Silva Bastos;SIMONE BASTOS PAIVA
+Igual;Maria Nelida Gonzalez de Gomez;MARIA NELIDA GONZALEZ DE GOMEZ
+Diferente;Manuela C. Moro;MAR�?A MANUELA MORO CABERO
+Diferente;Jose Edgard de Oliveira Alves;JOSE CL�?UDIO ALVES DE OLIVEIRA
+Diferente;Ana Celia Rodrigues Athayde;ANA CELIA RODRIGUES
+Igual;Joice Cleide Cardoso Ennes de Souza;JOICE CLEIDE CARDOSO ENNES DE SOUZA
+Igual;Marta Macedo Kerr Pinheiro;MARTA MACEDO KERR PINHEIRO
+Igual;Gisele Rocha;GISELE ROCHA CORTES
+Igual;Ana Carolina Simionato;ANA CAROLINA SIMIONATO
+Igual;Walter Moreira;WALTER MOREIRA
+Igual;Giulia Crippa;GIULIA CRIPPA
+Igual;Sonia Maria Troitino Rodriguez;SONIA MARIA TROITINO RODRIGUEZ
+Diferente;Claudio Gottschalg-Duque;CLAUDIO GOTTSCHALG DUQUE
+Igual;Thais Batista Zaninelli;THAIS BATISTA ZANINELLI
+Igual;Vinicius Medina Kern;VINICIUS MEDINA KERN
+Diferente;Marcos Andre Cavalcanti Bezerra A C Bezerra;MARCOS DO COUTO BEZERRA CAVALCANTI
+Diferente;Jefferson Hollanda Veras;JEFFERSON VERAS NUNES
+Diferente;Daniel Martinez-Avila;DANIEL MARTINEZ AVILA
+Diferente;Mariangela Spotti Lopes Fujita Fujita;MARIANGELA SPOTTI LOPES FUJITA
+Igual;Natalia Bolfarini Tognoli;NATALIA BOLFARINI TOGNOLI
+Igual;Andre Porto Ancona Lopez;ANDRE PORTO ANCONA LOPEZ
+Igual;Maria de Fatima Goncalves Moreira Talamo;MARIA DE FATIMA GONCALVES MOREIRA TALAMO
+Igual;Arthur Coelho;ARTHUR COELHO BEZERRA
+Igual;Herbert Lima;FRANCISCO HERBERT LIMA VASCONCELOS
+Igual;Fernando de Assis Rodrigues;FERNANDO DE ASSIS RODRIGUES
+Diferente;James Monteiro de Barros;CAMILA MONTEIRO DE BARROS
+Igual;Michely Jabala Mamede Vogel;MICHELY JABALA MAMEDE VOGEL
+Diferente;Maria da Gloria Goncalves de Melo;MARIA DA GRAÇA DE MELO SIMÕES
+Diferente;Marcelo de Castro Cesar;PAULO CESAR CASTRO DE SOUSA
+Igual;Silvana Drumond Monteiro;SILVANA DRUMOND MONTEIRO
+Diferente;Claudio Marcondes Castro Filho;CLAUDIO MARCONDES DE CASTRO FILHO
+Diferente;Pedro Carvalho Araujo Tavares;MARTA ARAUJO TAVARES FERREIRA
+Diferente;Anderson Herbert de Abreu Gomes;ANA LUCIA DE ABREU GOMES
+Diferente;Daniela Aparecida Chagas--Paula;CINTIA APARECIDA CHAGAS ARREGUY
+Diferente;Manuel Moreira dos Santos;BENILDES COURA MOREIRA DOS SANTOS MACULAN
+Diferente;Mashaba mahwahwatse Johanna;JOHANNA WILHIMINA SMIT
+Diferente;Maria Auxiliadora Pantoja Ferreira;HILDENISE FERREIRA NOVO
+Diferente;Mailson Freire de Oliveira;BERNARDINA MARIA JUVENAL FREIRE DE OLIVEIRA
+Igual;Magda Teixeira;MAGDA TEIXEIRA CHAGAS
+Diferente;Ana Cristina de Albuquerque Montenegro;ANA CRISTINA DE ALBUQUERQUE
+Diferente;Luiza Neves Marques da Fonseca;VITOR MANOEL MARQUES DA FONSECA
+Igual;Marcos Galindo;MARCOS GALINDO LIMA
+Igual;Marcia Cristina de Carvalho Pazin Vitoriano;MARCIA CRISTINA DE CARVALHO PAZIN VITORIANO
+Igual;Sandra Lucia;SANDRA LUCIA REBEL GOMES
+Igual;Edberto Ferneda;EDBERTO FERNEDA
+Igual;Marcelo Fornazin;MARCELO FORNAZIN
+Diferente;Kamila Emmanuella Xavier de Azevedo;CARLOS XAVIER DE AZEVEDO NETTO
+Igual;Renato Rocha Souza;RENATO ROCHA SOUZA
+Igual;Murilo Bastos da Cunha;MURILO BASTOS DA CUNHA
+Diferente;Lopez Jose Maria;JOSE MARIA JARDIM
+Igual;Cristina Dotta Ortega;CRISTINA DOTTA ORTEGA
+Igual;Sueli Bortolin;SUELI BORTOLIN
+Diferente;Frederik Moreira dos Santos;CLARISSA MOREIRA DOS SANTOS SCHMIDT
+Diferente;Andrade Dalgiza;DALGIZA ANDRADE OLIVEIRA
+Diferente;Miguel Braga de Oliveira;ELIANE BRAGA DE OLIVEIRA
+Diferente;Francisca Leite;FRANCISCA ROSALINE LEITE MOTA
+Igual;Placida Leopoldina Ventura Amorim da Costa Santos;PLACIDA LEOPOLDINA VENTURA AMORIM DA COSTA SANTOS
+Diferente;Maria Beatris de Jesus Sousa;MARIA ISABEL DE JESUS SOUSA BARREIRA
+Igual;William Barbosa Vianna;WILLIAM BARBOSA VIANNA
+Igual;Telma Campanha de Carvalho Madio;TELMA CAMPANHA DE CARVALHO MADIO
+Diferente;Rodrigo Coelho de Carvalho;KATIA MARIA COELHO DE CARVALHO CUSTODIO
+Igual;Joao Batista Ernesto de Moraes;JOAO BATISTA ERNESTO DE MORAES
+Diferente;Teresa de Souza Fernandez;ROSALI FERNANDEZ DE SOUZA
+Igual;Ivette Kafure;IVETTE KAFURE MUNOZ
+Diferente;Fernando C.M. de Medeiros;MARYNICE DE MEDEIROS MATOS AUTRAN
+Diferente;Daniel de Filgueiras Gomes;MARIA YEDA FALCAO SOARES DE FILGUEIRAS GOMES
+Igual;Ely Francina Tannuri de Oliveira;ELY FRANCINA TANNURI DE OLIVEIRA
+Diferente;Diana Cruz de Oliveira;HENRY PONCIO CRUZ DE OLIVEIRA
+Igual;Mauricio Barcellos Almeida;MAURICIO BARCELLOS ALMEIDA
+Diferente;Eloisa Fortkamp;CLARICE FORTKAMP CALDIN
+Diferente;Carlos Jose Matheus;JOSE MAURO MATHEUS LOUREIRO
+Diferente;Carla Melo Soares;ELMIRA LUZIA MELO SOARES SIMEAO
+Diferente;Elisangela Elisangela;ELISANGELA CRISTINA AGANETTE
+Diferente;Marly de Albuquerque;SANDRA DE ALBUQUERQUE SIEBRA
+Igual;Paula Regina;PAULA REGINA DAL EVEDOVE
+Diferente;Ana Maria Muller de Magalhaes;MARIA CECILIA DE MAGALHAES MOLLICA
+Igual;Ivan Claudio;IVAN CLAUDIO PEREIRA SIQUEIRA
+Diferente;Luis Lima-Marques;MAMEDE LIMA MARQUES
+Igual;Renato Fernandes Correa;RENATO FERNANDES CORREA
+Diferente;Gustavo Henrique de Sousa Araujo;GUSTAVO HENRIQUE DE ARAUJO FREIRE
+Igual;Daisy Pires Noronha;DAISY PIRES NORONHA
+Diferente;Cristiano de Oliveira Maciel;LUCIA MACIEL BARBOSA DE OLIVEIRA
+Diferente;Jorge Roberto Lopes dos Santos;ROBERTO LOPES DOS SANTOS JR
+Igual;Mary Carvalho;THICIANE MARY CARVALHO TEIXEIRA
+Igual;Eliana Maria dos Santos;ELIANA MARIA DOS SANTOS BAHIA JACINTHO
+Igual;Celia da Consolacao Dias;CELIA DA CONSOLACAO DIAS
+Igual;Osvaldo De Souza;OSVALDO DE SOUZA
+Diferente;Celio Andrade Santana;CELIO ANDRADE DE SANTANA JUNIOR
+Diferente;Yaneth Adriana;ADRIANA ROSECLER ALCARA
+Igual;Fernanda Passini Moreno;FERNANDA PASSINI MORENO
+Igual;Leonardo Cruz da Costa;LEONARDO CRUZ DA COSTA
+Igual;Ana Paula De Oliveira;ANA PAULA DE OLIVEIRA VILLALOBOS
+Diferente;Gercina Angela de Lima;GERCINA ANGELA BOREM DE OLIVEIRA LIMA
+Igual;Rosangela Schwarz Rodrigues;ROSANGELA SCHWARZ RODRIGUES
+Igual;Thiago Henrique Bragato Barros;THIAGO HENRIQUE BRAGATO BARROS
+Igual;Zaira Regina Zafalon;ZAIRA REGINA ZAFALON
+Diferente;Maria Aparecida Machado;MARIA APARECIDA MOURA
+Igual;leticia juliao;LETICIA JULIAO
+Diferente;Ed de Almeida Carlos;CARLOS CANDIDO DE ALMEIDA
+Igual;Marisa Brascher Basilio Medeiros;MARISA BRASCHER BASILIO MEDEIROS
+Diferente;Marcos Barros Luiz;MARCOS LUIZ MUCHERONI
+Igual;Carlos Henrique Marcondes;CARLOS HENRIQUE MARCONDES DE ALMEIDA
+Igual;Dulce Maria;DULCE MARIA BAPTISTA
+Diferente;Eduardo Calmon de Almeida Cezar;JORGE CALMON DE ALMEIDA BIOLCHINI
+Igual;Cintia de Azevedo Lourenco;CINTIA DE AZEVEDO LOURENCO
+Igual;Leandro Innocentini Lopes de Faria;LEANDRO INNOCENTINI LOPES DE FARIA
+Igual;Wanda Aparecida Machado Hoffmann;WANDA APARECIDA MACHADO HOFFMANN
+Diferente;Hayasuke Yumiko;NAIR YUMIKO KOBASHI
+Igual;Ricardo Coutinho Mello;RICARDO COUTINHO MELLO
+Igual;Jose Eduardo Santarem Segundo;JOSE EDUARDO SANTAREM SEGUNDO
+Igual;Luciana De Souza Gracioso;LUCIANA DE SOUZA GRACIOSO
+Igual;Fernando Cesar Lima Leite;FERNANDO CESAR LIMA LEITE
+Igual;Barbara Fadel;BARBARA FADEL
+Igual;Marcelo dos Santos;MARCELO DOS SANTOS
+Diferente;Eliezer de Oliveira da Conceicao;ELOISA DA CONCEICAO PRINCIPE DE OLIVEIRA
+Diferente;Maria Isabel da Cunha;MARIA GUIOMAR DA CUNHA FROTA
+Igual;Aida Varela;AIDA VARELA VARELA
+Diferente;Franciane Silvana Formentini;ROSANGELA FORMENTINI CALDAS
+Diferente;Francisco Jose de Novais;ROSA INES DE NOVAIS CORDEIRO
+Diferente;Camila Leite da Silva;EVA CRISTINA LEITE DA SILVA
+Igual;Gustavo Silva;GUSTAVO SILVA SALDANHA
+Igual;Giovana Deliberali Maimone;GIOVANA DELIBERALI MAIMONE
+Diferente;Luzia Cleide Rodrigues;MARIA CLEIDE RODRIGUES BERNARDINO
+Diferente;Becerra Gomez Nidia;NIDIA MARIA LIENERT LUBISCO
+Igual;Vera Lucia Alves;VERA LUCIA ALVES BREGLIA
+Igual;Ivete Pieruccini;IVETE PIERUCCINI
+Igual;Rogerio Mugnaini;ROGERIO MUGNAINI
+Igual;Cristian Berrio Zapata;CRISTIAN BERRIO ZAPATA
+Diferente;Matsinkou Soh Rosane;ROSANE SUELY ALVARES LUNARDELLI
+Diferente;Silva-Iniguez Lidia;LIDIA SILVA DE FREITAS
+Diferente;Luciana Fernandes de Oliveira;MAJORY KAROLINE FERNANDES DE OLIVEIRA MIRANDA
+Igual;Carlos Alberto Avila Araujo;CARLOS ALBERTO AVILA ARAUJO
+Igual;Brigida Maria Nogueira Cervantes;BRIGIDA MARIA NOGUEIRA CERVANTES
+Diferente;Gao Gloria;GLORIA GEORGES FERES
+Igual;Ricardo Rodrigues Barbosa;RICARDO RODRIGUES BARBOSA
+Igual;Fernando William Cruz;FERNANDO WILLIAM CRUZ
+Igual;Duarte de Miranda;ZENY DUARTE DE MIRANDA
+Diferente;Ion Ligia;MARTA LIGIA POMIM VALENTIM
+Diferente;Willian Vieira de Oliveira;HAMILTON VIEIRA DE OLIVEIRA
+Diferente;Paula Goncalves de Souza;ELISABETE GONCALVES DE SOUZA
+Diferente;Flavia Regina Oliveira de Barros;REGINA DE BARROS CIANCONI
+Igual;Adilson Luiz Pinto;ADILSON LUIZ PINTO
+Diferente;Tardif Cynthia;CYNTHIA RONCAGLIO
+Igual;Luana Farias;LUANA FARIAS SALES MARQUES
+Diferente;Niragire Henriette;HENRIETTE FERREIRA GOMES
+Igual;Moises Lima Dutra;MOISES LIMA DUTRA
+Igual;Franciele Marques Redigolo;FRANCIELE MARQUES REDIGOLO
+Igual;Renato Tarciso Barbosa de Sousa;RENATO TARCISO BARBOSA DE SOUSA
+Igual;Renata Goncalves;RENATA GONCALVES CURTY
+Diferente;Marivalde Francelin;MARIVALDE MOACIR FRANCELIN
+Diferente;Gabriel Gomes de Oliveira;EMERSON DIONISIO GOMES DE OLIVEIRA
+Diferente;Olivia Cezar;CEZAR KARPINSKI
+Igual;Andre Feldman;MARCO ANDRE FELDMAN SCHNEIDER
+Igual;Diego Andres Salcedo;DIEGO ANDRES SALCEDO
+Igual;Francisco Jose Aragao Pedroza Cunha;FRANCISCO JOSE ARAGAO PEDROZA CUNHA
+Igual;Virginia Bentes Pinto;VIRGINIA BENTES PINTO
+Igual;Vania Mara Alves Lima;VANIA MARA ALVES LIMA
+Igual;Fabio Mascarenhas;FABIO MASCARENHAS E SILVA
+Igual;Elizete Vieira Vitorino;ELIZETE VIEIRA VITORINO
+Igual;Oswaldo Francisco de Almeida Junior;OSWALDO FRANCISCO DE ALMEIDA JUNIOR
+Igual;Isa Maria Freire;ISA MARIA FREIRE
+Diferente;Maria Regina;REGINA MARIA MARTELETTO
+Diferente;Daniel Gorri;LETICIA GORRI MOLINA
+Igual;Suellen Oliveira;SUELLEN OLIVEIRA MILANI
+Igual;Cristina Guimaraes;MARIA CRISTINA GUIMARAES OLIVEIRA
+Igual;Jose Augusto;JOSE AUGUSTO CHAVES GUIMARAES
+Diferente;Ricardo Cesar Goncalves Sant'Ana;RICARDO CESAR GONCALVES SANTANA
+Igual;Leilah Santiago Bufrem;LEILAH SANTIAGO BUFREM
+Diferente;Renaud de Belmont;GABRIELA BELMONT DE FARIAS
+Diferente;Sagar Gilda;GILDA OLINTO DE OLIVEIRA
+Igual;Luiz Henrique Assis Garcia;LUIZ HENRIQUE ASSIS GARCIA
+Igual;Marcos Dantas;MARCOS DANTAS LOUREIRO
+Diferente;Rafaela Araujo de Holanda;LOURIVAL DE HOLANDA BARROS
+Igual;Suzana Pinheiro Machado Mueller;SUZANA PINHEIRO MACHADO MUELLER
+Igual;Maria Luiza de Almeida Campos;MARIA LUIZA DE ALMEIDA CAMPOS
+Diferente;Caio Augusto Carvalho Alves;EDVALDO CARVALHO ALVES
+Diferente;Brandon Marcello;MARCELLO PEIXOTO BAX
+Igual;Georgete Medleg Rodrigues;GEORGETE MEDLEG RODRIGUES
+Igual;Henrique Cabral;JORGE HENRIQUE CABRAL FERNANDES
+Igual;Catia Rodrigues Barbosa;CATIA RODRIGUES BARBOSA
+Igual;Asa Fujino;ASA FUJINO
+Igual;Maria Arruda;LIGIA MARIA ARRUDA CAFE
+Diferente;Ieda Zaparolli Martins;IEDA PELOGIA MARTINS DAMIAN
+Igual;Hamilton Rodrigues Tabosa;HAMILTON RODRIGUES TABOSA
+Diferente;Ilie miriam Miriam;MIRIAM PAULA MANINI
+Diferente;Olive Ariadne;ARIADNE CHLOE MARY FURNIVAL
+Diferente;Ricardo dos Santos Medeiros;RICARDO MEDEIROS PIMENTA
+Diferente;Kudzai Marise;MARISE TELES CONDURU
+Diferente;Tofan Luciana;LUCIANA SEPULVEDA KOPTCKE
+Diferente;Thamires MARIAH DA SILVEIRA Nascimento;FABRICIO JOSE NASCIMENTO DA SILVEIRA
+Igual;Adriana Bogliolo Sirihal Duarte;ADRIANA BOGLIOLO SIRIHAL DUARTE
+Diferente;Ana Barcellos;ANA MARIA BARCELLOS MALIN
+Igual;Ana Clara Candido;ANA CLARA CANDIDO
+Diferente;Cenez Araujo de Rezende;LILLIAN MARIA ARAUJO DE REZENDE ALVARES
+Igual;Angela Maria Grossi de Carvalho;ANGELA MARIA GROSSI DE CARVALHO
+Igual;Roniberto Morato do Amaral;RONIBERTO MORATO DO AMARAL
+Igual;Emir Jose Suaiden;EMIR JOSE SUAIDEN
+Igual;Enrique Muriel;ENRIQUE MURIEL TORRADO
+Diferente;Jose Carlos Dos Santos;JOSE CARLOS SALES DOS SANTOS
+Igual;Marco Antonio de Almeida;MARCO ANTONIO DE ALMEIDA
+Diferente;Ayelet Vilan;JAYME LEIRO VILAN FILHO
+Igual;Maria Claudia Cabrini Gracio;MARIA CLAUDIA CABRINI GRACIO
+Igual;Maria Jose Vicentini Jorente;MARIA JOSE VICENTINI JORENTE
+Igual;Silvana Aparecida Borsetti Gregorio Vidotti;SILVANA APARECIDA BORSETTI GREGORIO VIDOTTI
+Igual;Maria Margaret Lopes;MARIA MARGARET LOPES
+Diferente;Coelho da Silva Jose Fernando;JOSE FERNANDO MODESTO DA SILVA
+Igual;Luciane de fatima beckman Cavalcante;LUCIANE DE FATIMA BECKMAN CAVALCANTE
+Igual;Fabiano Ferreira de Castro;FABIANO FERREIRA DE CASTRO
+Igual;Fernando Luiz Vechiato;FERNANDO LUIZ VECHIATO
+Diferente;Humberto Ataide;GUILHERME ATAIDE DIAS
+Igual;Gilda Maria;GILDA MARIA WHITAKER VERRI
+Diferente;Rogerio Sa Ramalho;ROGERIO APARECIDO SA RAMALHO
+Diferente;Sueli Mara Soares Soares Pinto Ferreira;SUELI MARA SOARES PINTO FERREIRA
+Diferente;Yana Batista Brandao;LIDIA MARIA BATISTA BRANDAO TOUTAIN
+Diferente;Juliana Barreto de Albuquerque;ALDO DE ALBUQUERQUE BARRETO
+Igual;Fabio Assis Pinho;FABIO ASSIS PINHO
+Diferente;Davinya Denise;IVANA DENISE PARRELA
+Diferente;Maria de Maria Campos;LINAIR MARIA CAMPOS
+Igual;Andrea Soares Rocha da Silva;ANDREA SOARES ROCHA DA SILVA
+Igual;Heliomar Cavati Sobrinho;HELIOMAR CAVATI SOBRINHO
+Igual;Raimundo Nonato Macedo dos Santos;RAIMUNDO NONATO MACEDO DOS SANTOS
+Diferente;Jalves Henrique de Araujo;ROGERIO HENRIQUE DE ARAUJO JUNIOR
+Igual;Maria Giovanna Guedes Farias;MARIA GIOVANNA GUEDES FARIAS
+Igual;Maria Ines;MARIA INES TOMAEL
+Igual;Renato Pinto;RENATO PINTO VENANCIO
+Igual;Monica Erichsen Nassif;MONICA ERICHSEN NASSIF
+Diferente;Cisneros Lidia;LIDIA EUGENIA CAVALCANTE
+Igual;Sarita Albagli;SARITA ALBAGLI
+Igual;Nadi Helena Presser;NADI HELENA PRESSER
+Igual;Cibele Araujo Camargo Marques dos Santos;CIBELE ARAUJO CAMARGO MARQUES DOS SANTOS
+Diferente;Paulo Chagas de Souza;FRANCISCO DE CHAGAS DE SOUZA
+Diferente;Maria Helena;HELENA MARIA TARCHI CRIVELLARI
+Igual;Joana Coeli Ribeiro Garcia;JOANA COELI RIBEIRO GARCIA
+Diferente;Maria Teresa Seabra Soares de Britto e Alves;MARIA TERESA NAVARRO DE BRITTO MATOS
+Igual;Linete Bartalo;LINETE BARTALO
+Igual;Emeide Nobrega Duarte;EMEIDE NOBREGA DUARTE
+Diferente;Gustavo Machado das Neves;RAYMUNDO DAS NEVES MACHADO
+Igual;Jacqueline Leta;JACQUELINE LETA
+Igual;Marcio Matias;MARCIO MATIAS
+Igual;Renata Maria Abrantes Baracho;RENATA MARIA ABRANTES BARACHO PORTO
+Igual;Marckson Roberto Ferreira de Sousa;MARCKSON ROBERTO FERREIRA DE SOUSA
+Diferente;Dirceu Dias de Souza;MARLI DIAS DE SOUZA PINTO
+Igual;Marlene Oliveira;MARLENE OLIVEIRA
+Diferente;Livia Kelli;GRACY KELLI MARTINS GONCALVES
+Diferente;Bruno Antonio De Pinho;JULIO AFONSO SA DE PINHO NETO
+Igual;Fabio Castro Gouveia;FABIO CASTRO GOUVEIA
