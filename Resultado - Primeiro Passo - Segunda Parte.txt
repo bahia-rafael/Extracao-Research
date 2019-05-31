@@ -1,0 +1,61 @@
+Diferente;Guilherme Oliveira Teixeira de Carvalho;MARLENE OLIVEIRA TEIXEIRA DE MELO
+Igual;Cecilio Merlotti Rodas;CECILIO MERLOTTI RODAS
+Igual;Zilma Silveira Nogueira Reis;ZILMA SILVEIRA NOGUEIRA REIS
+Diferente;Gonzalez Torres Maria de Lourdes;MARIA DE LOURDES LIMA
+Igual;Fabricio Ziviani;FABRICIO ZIVIANI
+Diferente;Tiago Carlos Lima do Nascimento;LUCILEIDE ANDRADE DE LIMA DO NASCIMENTO
+Igual;FRANCISCO CARLOS PALETTA;FRANCISCO CARLOS PALETTA
+Diferente;Guilherme Camelo de Freitas;NELMA CAMELO DE ARAUJO
+Diferente;Celio de Souza Brandao FIlho;TAMARA DE SOUZA BRANDAO GUARALDO
+Diferente;Carlos henrique da silva;CARLOS HENRIQUE JUVENCIO DA SILVA
+Igual;Fernando Silva Parreiras;FERNANDO SILVA PARREIRAS
+Igual;Regina Celia Baptista Belluzzo;REGINA CELIA BAPTISTA BELLUZZO
+Igual;Ana Maria Pereira;ANA MARIA PEREIRA CARDOSO
+Igual;Daniela Lucas da Silva;DANIELA LUCAS DA SILVA
+Diferente;Joao Claudio Bassan de Moraes;CASSIA REGINA BASSAN DE MORAES
+Igual;Taiguara Villela;TAIGUARA VILLELA ALDABALDE
+Igual;Luana Maia Woida;LUANA MAIA WOIDA
+Igual;Rodrigo Fonseca;RODRIGO FONSECA RODRIGUES
+Diferente;Terezinha da Silva;TEREZINHA ELISABETH DA SILVA
+Igual;Marcos Aurelio;MARCOS AURELIO GOMES
+Igual;Marlusa Gosling;MARLUSA GOSLING
+Igual;Marta Leandro da Mata;MARTA LEANDRO DA MATA
+Diferente;Mariana Cristina Rachel;RACHEL CRISTINA VESU ALVES
+Igual;Murilo Artur Araujo da Silveira;MURILO ARTUR ARAUJO DA SILVEIRA
+Diferente;Camila Aparecida Borges;IVANA APARECIDA BORGES LINS
+Igual;Gleice Pereira;GLEICE PEREIRA
+Diferente;Maria da Graca Simoes;MARIA DA GRACA MELO SIMOES
+Igual;Luiz Claudio Gomes Maia;LUIZ CLAUDIO GOMES MAIA
+Diferente;Zach Renato;RENATO DE MATTOS
+Diferente;Priscilla Aparecida Santana Bittencourt;IBSEN MATEUS BITTENCOURT SANTANA PINTO
+Igual;Raquel Do Rosario;RAQUEL DO ROSARIO SANTOS
+Diferente;Ricardo Rene;RENE LOMMEZ GOMES
+Igual;Rodrigo Moreno Marques;RODRIGO MORENO MARQUES
+Diferente;Sueli Mara Soares Soares Pinto Ferreira;SUELI MARA SOARES PINTO FERREIRA
+Diferente;Jesus Marcelo;MARCELO MINGHELLI
+Igual;Max Cirino de Mattos;MAX CIRINO DE MATTOS
+Diferente;Marivalde Francelin;MARIVALDE MOACIR FRANCELIN
+Diferente;Velazquez Ernesto;PEDRO ERNESTO FAGUNDES
+Diferente;Santos Rejane Andrade dos Magnolia;MAGNOLIA REJANE ANDRADE DOS SANTOS
+Diferente;Flores Daniel;DANIEL FLORES
+Igual;Barbara Coelho;BARBARA COELHO NEVES
+Diferente;Gomez Sergio Armando;ARMANDO SERGIO DE AGUIAR FILHO
+Diferente;Gustavo Medeiros de Arauujo;GUSTAVO MEDEIROS DE ARAUJO
+Diferente;Deise Maria Antonio Sabbag;DEISE MARIA ANTONIO
+Igual;Edgar Bisset Alvarez;EDGAR BISSET ALVAREZ
+Igual;Pedro Luiz Cortes;PEDRO LUIZ CORTES
+Igual;Joao Victor Boechat Gomide;JOAO VICTOR BOECHAT GOMIDE
+Diferente;Marcia Rosa da Costa;ROSA DA PENHA FERREIRA DA COSTA
+Diferente;Jorge Ferreira de Araujo;RONALDO FERREIRA DE ARAUJO
+Diferente;Alianda Maira;MAIRA CRISTINA GRIGOLETO
+Igual;Andrew Beheregarai Finger;ANDREW BEHEREGARAI FINGER
+Diferente;Alexandre Silva de Almeida;ELIANA SILVA DE ALMEIDA
+Igual;Leonardo Castro Botega;LEONARDO CASTRO BOTEGA
+Diferente;Nadia Sofia Lucas Marques;MERI NADIA MARQUES GERLIN
+Igual;Luciana Peixoto Santa Rita;LUCIANA PEIXOTO SANTA RITA
+Diferente;Favero Luciane;LUCIANE PAULA VITAL
+Igual;Ricardo Barros;RICARDO BARROS SAMPAIO
+Igual;Daniel Jardim Pardini;DANIEL JARDIM PARDINI
+Igual;Dalton Lopes Martins;DALTON LOPES MARTINS
+Igual;Cristiana Fernandes De Muylder;CRISTIANA FERNANDES DE MUYLDER
+Diferente;Zakanyine Dr. Meszaros Renata;RENATA CARDOZO PADILHA

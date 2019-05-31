@@ -5,14 +5,13 @@
  */
 package com.research.automacao;
 
+import com.research.model.ProfessorSearchFirst;
 import com.research.paralelismo.ConsumidorExtracaoResearchPrimeiroPasso;
+import com.research.util.FileUtil;
 import com.research.validacao.ValidacaoExtracaoResearchGate;
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Set;
 import java.util.concurrent.ConcurrentLinkedDeque;
-import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
@@ -23,10 +22,10 @@ public class ExecucaoPrimeiroPasso {
 
     public static void main(String[] args) throws InterruptedException, IOException {
 
-        Set<String> nomeProfessor = ValidacaoExtracaoResearchGate.retirarRepeticao("NomeLista - Primeiro Passo.txt");
+        Set<String> nomeProfessor = ValidacaoExtracaoResearchGate.retirarRepeticao("NomeLista - Primeiro Passo - Segunda Parte.txt");
 
         ConcurrentLinkedDeque<String> professores = new ConcurrentLinkedDeque<>(nomeProfessor);
-        ConcurrentLinkedDeque<String> result = new ConcurrentLinkedDeque<>();
+        ConcurrentLinkedDeque<ProfessorSearchFirst> result = new ConcurrentLinkedDeque<>();
 
         ConsumidorExtracaoResearchPrimeiroPasso thread1 = new ConsumidorExtracaoResearchPrimeiroPasso(1, professores, result);
         ConsumidorExtracaoResearchPrimeiroPasso thread2 = new ConsumidorExtracaoResearchPrimeiroPasso(2, professores, result);
@@ -34,7 +33,7 @@ public class ExecucaoPrimeiroPasso {
         thread1.start();
         thread2.start();
 
-        while (thread1.isAlive() /*|| thread3.isAlive() || thread5.isAlive()*/) {
+        while (thread2.isAlive() || thread1.isAlive()) {
             try {
                 System.out.println("Faltam :" + professores.size());
                 Thread.sleep(10000);
@@ -44,21 +43,7 @@ public class ExecucaoPrimeiroPasso {
             }
         }
 
-        FileWriter arq;
-        try {
-            arq = new FileWriter("Resultado - Primeiro Passo.txt", true);
-            try (BufferedWriter escritor = new BufferedWriter(arq)) {
-                for (String professor : result) {
-
-                    escritor.write(professor);
-                    escritor.newLine();
-
-                }
-            }
-            arq.close();
-        } catch (IOException ex) {
-            Logger.getLogger(ValidacaoExtracaoResearchGate.class.getName()).log(Level.SEVERE, null, ex);
-        }
+        FileUtil.writerFile("Resultado - Primeiro Passo - Segunda Parte.txt", result);
 
     }
 

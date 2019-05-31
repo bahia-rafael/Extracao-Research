@@ -5,12 +5,10 @@
  */
 package com.research.paralelismo;
 
+import com.research.model.ProfessorSearchFirst;
 import com.research.util.IdentificadorSO;
 import com.research.util.Normalizador;
-import com.research.validacao.ValidacaoExtracaoResearchGate;
-import java.io.IOException;
 import java.util.List;
-import java.util.Set;
 import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -21,15 +19,15 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 /**
  *
- *  @author bahia-rafael
+ * @author bahia-rafael
  */
 public class ConsumidorExtracaoResearchPrimeiroPasso extends Thread {
 
     private int id;
     private ConcurrentLinkedDeque<String> professores;
-    private ConcurrentLinkedDeque<String> result;
+    private ConcurrentLinkedDeque<ProfessorSearchFirst> result;
 
-    public ConsumidorExtracaoResearchPrimeiroPasso(int id, ConcurrentLinkedDeque<String> professores, ConcurrentLinkedDeque<String> result) {
+    public ConsumidorExtracaoResearchPrimeiroPasso(int id, ConcurrentLinkedDeque<String> professores, ConcurrentLinkedDeque<ProfessorSearchFirst> result) {
         this.id = id;
         this.professores = professores;
         this.result = result;
@@ -75,10 +73,20 @@ public class ConsumidorExtracaoResearchPrimeiroPasso extends Thread {
                 String nomeEcontrado = Normalizador.semAcento(elementos.get(5).getText());
 
                 if (nomeEcontrado.equalsIgnoreCase(professor) || professor.contains(nomeEcontrado.toUpperCase()) || nomeEcontrado.contains(professor.toUpperCase())) {
+                    
                     System.out.println("Igual: " + nomeEcontrado + " == " + professor);
-                    result.add("Igual;" + nomeEcontrado + ";" + professor);
+
+                    String rotulo = "Igual";
+                    String link = elementos.get(5).getAttribute("a");
+
+                    ProfessorSearchFirst resultado = new ProfessorSearchFirst(professor, nomeEcontrado, rotulo, link);
+                    result.add(resultado);
                 } else {
-                    result.add("Diferente;" + nomeEcontrado + ";" + professor);
+                    String rotulo = "Diferente";
+
+                    ProfessorSearchFirst resultado = new ProfessorSearchFirst(professor, nomeEcontrado, rotulo, null);
+                    result.add(resultado);
+
                     System.out.println("Diferente: " + nomeEcontrado + " != " + professor);
                 }
             } catch (java.util.NoSuchElementException ex) {
