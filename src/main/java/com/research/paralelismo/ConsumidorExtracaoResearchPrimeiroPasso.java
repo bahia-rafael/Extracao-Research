@@ -77,7 +77,9 @@ public class ConsumidorExtracaoResearchPrimeiroPasso extends Thread {
                     System.out.println("Igual: " + nomeEcontrado + " == " + professor);
 
                     String rotulo = "Igual";
-                    String link = elementos.get(5).getAttribute("a");
+                    String link = elementos.get(5).getAttribute("href");
+                    
+                    System.out.println(link);
 
                     ProfessorSearchFirst resultado = new ProfessorSearchFirst(professor, nomeEcontrado, rotulo, link);
                     result.add(resultado);
