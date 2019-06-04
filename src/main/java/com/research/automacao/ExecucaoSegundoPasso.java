@@ -9,6 +9,7 @@ import com.research.model.ProfessorResearch;
 import com.research.paralelismo.ConsumidorExtracaoResearchPrimeiroPasso;
 import com.research.util.FileUtil;
 import com.research.util.IdentificadorSO;
+import com.research.util.LoadUtil;
 import com.research.validacao.ValidacaoExtracaoResearchGate;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -34,7 +35,7 @@ public class ExecucaoSegundoPasso {
         /**
          * Carregar a lista de nomes que foram solicitadas
          */
-        Set<String> professores = ValidacaoExtracaoResearchGate.retirarRepeticao("NomeLista - Segundo Passo.txt");
+        List<JsonName> lista = LoadUtil.loadListObjects("ValidacaoName", JsonName[].class);
 
         List<ProfessorResearch> result = new ArrayList<>();
 
@@ -50,7 +51,10 @@ public class ExecucaoSegundoPasso {
         /**
          * Extraindo um nome da lista que foi carregada
          */
-        for (String nome : professores) {
+        for (JsonName item : lista) {
+
+            String link = item.getLink();
+            String nome = item.getNome();
 
             try {
                 /**
@@ -68,31 +72,13 @@ public class ExecucaoSegundoPasso {
                  * Informo qual o site que será iniciado, com a URL de busca
                  * utilizando o nome do Professor.
                  */
-                driver.get("https://www.researchgate.net/search/authors?q=" + nome.replace(" ", "%2B"));
+                driver.get(link);
 
                 /**
                  * Espera de um segundo para poder carregar o layout completo do
                  * site
                  */
                 espera();
-
-                /**
-                 * Carregamento e armazenamento de alguns elementos da página
-                 */
-                List<WebElement> elementos = driver.findElements(By.tagName("a"));
-
-                /**
-                 * Espera de um segundo para poder carregar o layout completo do
-                 * site
-                 */
-                espera();
-
-                /**
-                 * Seleciona o perfil que foi retornado pelo site
-                 */
-                elementos.get(5).click();
-
-                elementos = driver.findElements(By.className("nova-o-stack__item"));
 
                 /**
                  * Caso tenha o botão "Show All", peço para o bot clicar, para
@@ -107,49 +93,29 @@ public class ExecucaoSegundoPasso {
                 /**
                  * Armazena todas as skills que estiverem no site
                  */
-                elementos = driver.findElements(By.className("sub-section"));
+                List<WebElement> elementos = driver.findElements(By.className("nova-o-stack__item"));
+
+                List<WebElement> skills = elementos.get(1).findElements(By.className("nova-l-flex__item"));
+
+                List<String> skkilsString = new ArrayList<>();
+
+                for (int i = 3; i < skills.size(); i++) {
+                    System.out.println(nome + ";" + skills.get(i).getText());
+                    skkilsString.add(skills.get(i)  .getText());
+                }
 
                 /**
                  * Armazena em uma lista para poder atribuir ao Objeto
                  * ProfessorReserach criado neste loops
                  */
-                List<String> skills = new ArrayList<>();
-
-                for (int i = 0; i < elementos.size(); i++) {
-
-                    skills.add(elementos.get(i).getText());
-
-                }
-
-                professor.setSkills(skills);
-
-                /**
-                 * Localizar onde esta o botão Research para extrair a
-                 * quantidade de pesquisar que o professor possui, e ao final
-                 * atribui ao objeto do ProfessorResearch
-                 */
-                elementos = driver.findElements(By.tagName("button"));
-
-                for (WebElement elemento : elementos) {
-                    if (elemento.getText().contains("Research")) {
-                        professor.setQndArtigos(Integer.parseInt(elemento.getText().replace("Research ", "")));
-                    }
-                }
-
-                /**
-                 * Identifica e armazena o nickname do professor
-                 */
-                String nick = driver.getCurrentUrl().replace("https://www.researchgate.net/profile/", "");
-
-                professor.setNickName(nick);
-
+                professor.setSkills(skkilsString);
                 /**
                  * Adiciono o professor a uma lista para poder gerar um
                  * resultado no final da execuçao
                  */
                 result.add(professor);
-
             } catch (java.util.NoSuchElementException ex) {
+                System.out.println(ex.getMessage());
                 break;
             } catch (NumberFormatException ax) {
                 System.out.println(ax.getMessage());
@@ -177,4 +143,36 @@ public class ExecucaoSegundoPasso {
             Logger.getLogger(ConsumidorExtracaoResearchPrimeiroPasso.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
+}
+
+class JsonName {
+
+    private String Nome;
+    private String Link;
+    private String Quantidade_Artigos;
+
+    public String getNome() {
+        return Nome;
+    }
+
+    public void setNome(String Nome) {
+        this.Nome = Nome;
+    }
+
+    public String getLink() {
+        return Link;
+    }
+
+    public void setLink(String Link) {
+        this.Link = Link;
+    }
+
+    public String getQuantidade_Artigos() {
+        return Quantidade_Artigos;
+    }
+
+    public void setQuantidade_Artigos(String Quantidade_Artigos) {
+        this.Quantidade_Artigos = Quantidade_Artigos;
+    }
+
 }
